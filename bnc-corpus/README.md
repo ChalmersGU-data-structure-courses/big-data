@@ -1,6 +1,4 @@
-# Plain text files
-
-## British National Corpus
+# British National Corpus
 
 The files `bnc-*.txt.gz` contains portions of the British National Corpus (BNC). They are in plain text, without any annotations, and are taken from here:
 
