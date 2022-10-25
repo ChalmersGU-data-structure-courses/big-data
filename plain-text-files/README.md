@@ -13,6 +13,9 @@ They are licenced under the BNC User Licence:
 
 Contents (after decompression):
 
-- bnc-large.txt (54Mb): the first 600,000 sentences of BNC (≈10 million words)
-- bnc-huge.txt (197Mb): the first 2,000,000 sentences of BNC (≈35 million words)
-- bnc-full.txt (545Mb): all 6,072,000 sentences of BNC (≈100 million words)
+- `bnc-mini.txt` (2.0Mb): the first 20,000 sentences of BNC (≈0.4 million words)
+- `bnc-small.txt` (5.5Mb): the first 60,000 sentences of BNC (≈1 million words)
+- `bnc-medium.txt` (19Mb): the first 200,000 sentences of BNC (≈3.5 million words)
+- `bnc-large.txt` (54Mb): the first 600,000 sentences of BNC (≈10 million words)
+- `bnc-huge.txt` (197Mb): the first 2,000,000 sentences of BNC (≈35 million words)
+- `bnc-full.txt` (545Mb): all 6,072,000 sentences of BNC (≈100 million words)
